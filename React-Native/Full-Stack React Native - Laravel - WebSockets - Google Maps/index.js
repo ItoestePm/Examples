@@ -390,7 +390,7 @@ class Index extends React.Component {
                 latitude: this.state.latituded,
                 longitude: this.state.longituded
                 }}
-              apikey='AIzaSyDuD-3eGh7vNWJyU04aT7h9wJqZb38QBqc'
+              apikey='YOUR_API'
               strokeWidth={6}
               strokeColor="#f5c11d"
               onReady={(result) => {
